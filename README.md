@@ -1,16 +1,13 @@
 # **CircularWordCloud**
 
 Circular Word Cloud with N-Words Selector
-
+<p align="left">
 ![](https://img.shields.io/badge/platform-iOS-blue.svg?style=flat)
-
 ![](https://img.shields.io/badge/swift5-compatible-4BC51D.svg?style=flat)
-
 ![](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
-
 ![](https://img.shields.io/cocoapods/v/XLPagerTabStrip.svg)
-
 ![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+</p>
 
 Made with Team SISISI by [k-elon](https://github.com/minsub0922).
 
