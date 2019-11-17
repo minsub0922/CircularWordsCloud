@@ -20,7 +20,12 @@ Circular Word Cloud for iOS !
     <th><img width="413" alt="1" src="https://user-images.githubusercontent.com/9532432/69011983-de348000-09b3-11ea-9438-fa736f831194.png" width="250"/></th>
     <th><img width="413" alt="2" src="https://user-images.githubusercontent.com/9532432/69011973-be04c100-09b3-11ea-8347-1c719acfd315.png" width="250"/></th>
     <th><img width="413" alt="3" src="https://user-images.githubusercontent.com/9532432/69011981-cf4dcd80-09b3-11ea-8067-368450ed1608.png" width="250"/></th>
-    <th><img src="Example/pagerTabStripTypes.gif" width="250"/></th>
+  </tr>
+  
+  <tr>
+    <th><img width="413" alt="1" src="https://user-images.githubusercontent.com/9532432/69011983-de348000-09b3-11ea-9438-fa736f831194.png" width="250"/></th>
+    <th><img width="413" alt="4" src="https://user-images.githubusercontent.com/9532432/69012009-22278500-09b4-11ea-9875-8a719b28b25b.png" width="250"/></th>
+    <th><img width="413" alt="5" src="https://user-images.githubusercontent.com/9532432/69012022-3b303600-09b4-11ea-9333-a9208b84a619.png" width="250"/></th>
   </tr>
 </table>
 
