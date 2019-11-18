@@ -17,8 +17,8 @@ Circular Word Cloud for iOS !
 
 <table>
   <tr>
-    <th><a href="https://user-images.githubusercontent.com/9532432/69025919-39925c80-0a0c-11ea-9cf0-2e937def3ba8.gif"/></th>
-    <th><a href="https://user-images.githubusercontent.com/9532432/69026051-b291b400-0a0c-11ea-9af9-92a6f9f2b476.gif"/></th>
+    <th><img width="413" alt="1" src="https://user-images.githubusercontent.com/9532432/69025919-39925c80-0a0c-11ea-9cf0-2e937def3ba8.gif"/></th>
+    <th><img width="413" alt="1" src="https://user-images.githubusercontent.com/9532432/69026051-b291b400-0a0c-11ea-9af9-92a6f9f2b476.gif"/></th>
   </tr>
 </table>
   
