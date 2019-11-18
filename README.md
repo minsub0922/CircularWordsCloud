@@ -15,8 +15,13 @@ Circular Word Cloud for iOS !
 
 **CircularWordMap** is a *Container View* that allows us to implement word map easily. You can use it for presenting **Word Relationships** or **TItle-Subtitles Architecture**.
 
-![recording3](https://user-images.githubusercontent.com/9532432/69025919-39925c80-0a0c-11ea-9cf0-2e937def3ba8.gif)![recording4](https://user-images.githubusercontent.com/9532432/69026051-b291b400-0a0c-11ea-9af9-92a6f9f2b476.gif)
-
+<table>
+  <tr>
+    <th><a href="https://user-images.githubusercontent.com/9532432/69025919-39925c80-0a0c-11ea-9cf0-2e937def3ba8.gif"/></th>
+    <th><a href="https://user-images.githubusercontent.com/9532432/69026051-b291b400-0a0c-11ea-9af9-92a6f9f2b476.gif"/></th>
+  </tr>
+</table>
+  
 <table>
   <tr>
     <th><img width="413" alt="1" src="https://user-images.githubusercontent.com/9532432/69011983-de348000-09b3-11ea-9438-fa736f831194.png" width="250"/></th>
