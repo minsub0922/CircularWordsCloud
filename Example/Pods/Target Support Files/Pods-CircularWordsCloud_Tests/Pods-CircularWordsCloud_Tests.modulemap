@@ -1,0 +1,6 @@
+framework module Pods_CircularWordsCloud_Tests {
+  umbrella header "Pods-CircularWordsCloud_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

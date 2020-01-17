@@ -28,10 +28,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		000B77577112B52279E8AFD5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		000B77577112B52279E8AFD5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		009CD444A6D1778C19DD592C /* Pods-CircularWordsCloud_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CircularWordsCloud_Example.debug.xcconfig"; path = "Target Support Files/Pods-CircularWordsCloud_Example/Pods-CircularWordsCloud_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		0B3B6F0639E6B8183559B09F /* Pods-CircularWordsCloud_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CircularWordsCloud_Tests.release.xcconfig"; path = "Target Support Files/Pods-CircularWordsCloud_Tests/Pods-CircularWordsCloud_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		10ABBE131BAD5E5B6851A370 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		10ABBE131BAD5E5B6851A370 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		2B6B397F4833F6CD74094B7B /* Pods_CircularWordsCloud_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CircularWordsCloud_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		40092667107642A8574707EC /* Pods-CircularWordsCloud_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CircularWordsCloud_Tests.debug.xcconfig"; path = "Target Support Files/Pods-CircularWordsCloud_Tests/Pods-CircularWordsCloud_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* CircularWordsCloud_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircularWordsCloud_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,7 +44,7 @@
 		607FACE51AFB9204008FA782 /* CircularWordsCloud_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CircularWordsCloud_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		B40E15A2F49509C3E494CC78 /* CircularWordsCloud.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CircularWordsCloud.podspec; path = ../CircularWordsCloud.podspec; sourceTree = "<group>"; };
+		B40E15A2F49509C3E494CC78 /* CircularWordsCloud.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CircularWordsCloud.podspec; path = ../CircularWordsCloud.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E8175D326B27603C308C0B71 /* Pods_CircularWordsCloud_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CircularWordsCloud_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED02250F04FF0814E0771F91 /* Pods-CircularWordsCloud_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CircularWordsCloud_Example.release.xcconfig"; path = "Target Support Files/Pods-CircularWordsCloud_Example/Pods-CircularWordsCloud_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,7 +77,6 @@
 				40092667107642A8574707EC /* Pods-CircularWordsCloud_Tests.debug.xcconfig */,
 				0B3B6F0639E6B8183559B09F /* Pods-CircularWordsCloud_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -228,6 +227,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

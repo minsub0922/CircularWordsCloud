@@ -1,0 +1,6 @@
+framework module CircularWordsCloud {
+  umbrella header "CircularWordsCloud-umbrella.h"
+
+  export *
+  module * { export * }
+}
