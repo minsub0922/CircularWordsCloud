@@ -37,7 +37,6 @@
 		D4E5BCA5791E8D899963180DA9ACC520 /* CircularWordsCloud-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BC3544AB55CC453E5EE6C1C1A7DDC6BE /* CircularWordsCloud-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DCED70869CAB29FEC5ABE131D02123C4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		E0B8D095C732352C854D365B9E5B993D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CAA89EEF1039078430D7A886477E365 /* UIKit.framework */; };
-		E2AB4D3719B7193387D9D024D4D94CB9 /* CircularWordsCloud-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 804CBCE375356CFDC544D2A4B9ABEE9E /* CircularWordsCloud-dummy.m */; };
 		E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = AD0B81AC7DF4855803A0FA70985F8A99 /* FBSnapshotTestCasePlatform.m */; };
 		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = A25844C26701FA4BCAEF64150B56777F /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E621F768263424D9C5C35D58513625CB /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -215,6 +214,9 @@
 		2770907730630331227DCCB68AC0115E /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
+				1AD3DAF123D01D5A0042A488 /* Keyword.swift */,
+				1AD3DAEF23D0186E0042A488 /* Extensions.swift */,
+				1AD3DAED23D010F20042A488 /* CircularWordsCloud.swift */,
 				6B5C7A84267230CE06B127160EC35434 /* CircularWordsCloud */,
 			);
 			name = "Development Pods";
@@ -342,9 +344,6 @@
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
-				1AD3DAF123D01D5A0042A488 /* Keyword.swift */,
-				1AD3DAEF23D0186E0042A488 /* Extensions.swift */,
-				1AD3DAED23D010F20042A488 /* CircularWordsCloud.swift */,
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				2770907730630331227DCCB68AC0115E /* Development Pods */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
@@ -548,7 +547,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2AB4D3719B7193387D9D024D4D94CB9 /* CircularWordsCloud-dummy.m in Sources */,
 				1AD3DAF223D01D5A0042A488 /* Keyword.swift in Sources */,
 				7FFA2F13B3B26DCDBF82FF02ADAB8904 /* ReplaceMe.swift in Sources */,
 				1AD3DAEE23D010F20042A488 /* CircularWordsCloud.swift in Sources */,
