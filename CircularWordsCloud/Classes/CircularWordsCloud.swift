@@ -370,3 +370,10 @@ extension CircularWordsCloud {
         }
     }
 }
+
+struct Keyword {
+    var text: String
+    var rank: Int = 0
+    var history: [String] = []
+    var isSelected: Bool = false
+}

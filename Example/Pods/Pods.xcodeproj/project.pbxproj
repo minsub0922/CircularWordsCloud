@@ -12,8 +12,7 @@
 		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = E0956940883830C651240E754E3ECC52 /* UIImage+Diff.m */; };
 		14C511527597E5846AB2627F791C7D8E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 716A9972B9D9103B54DB950893FAF104 /* QuartzCore.framework */; };
 		1A2DA0B123D14B6400F39786 /* CircularWordsCloud.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2DA0B023D14B6400F39786 /* CircularWordsCloud.swift */; };
-		1A2DA0B323D14B9200F39786 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2DA0B223D14B9200F39786 /* Extensions.swift */; };
-		1A2DA0B523D14BAF00F39786 /* Keyword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2DA0B423D14BAF00F39786 /* Keyword.swift */; };
+		1A2DA0B923D14F5B00F39786 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2DA0B823D14F5B00F39786 /* Extensions.swift */; };
 		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = EF53D290F564A9B10CEF56C9DC2010F2 /* UIImage+Compare.m */; };
 		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A3ACA72AE9B776E644F6D159AB3E80B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		4AA8189F2F448A2BEA02866760D4C37B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
@@ -73,8 +72,7 @@
 		13C8BBFE2D9E3A9C566221B1DE04E91C /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		157C4FE26B201E68B7F345DD0EB73985 /* CircularWordsCloud-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CircularWordsCloud-prefix.pch"; sourceTree = "<group>"; };
 		1A2DA0B023D14B6400F39786 /* CircularWordsCloud.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CircularWordsCloud.swift; path = CircularWordsCloud/Classes/CircularWordsCloud.swift; sourceTree = "<group>"; };
-		1A2DA0B223D14B9200F39786 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		1A2DA0B423D14BAF00F39786 /* Keyword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keyword.swift; sourceTree = "<group>"; };
+		1A2DA0B823D14F5B00F39786 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = CircularWordsCloud/Classes/Extensions.swift; sourceTree = "<group>"; };
 		1B8ABEEA76ECDF1975B6D0787700F929 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
 		1C37C4028B2BBAE9B1B97C47F39D81A1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1CA0B514BEF4CBBBC9C360350EEADD01 /* Pods-CircularWordsCloud_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CircularWordsCloud_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -260,8 +258,7 @@
 				34864A183BE1FDCFFCF13E751F8A83A9 /* Pod */,
 				0D699FD3EDCB765B83C75740A0174345 /* Support Files */,
 				1A2DA0B023D14B6400F39786 /* CircularWordsCloud.swift */,
-				1A2DA0B223D14B9200F39786 /* Extensions.swift */,
-				1A2DA0B423D14BAF00F39786 /* Keyword.swift */,
+				1A2DA0B823D14F5B00F39786 /* Extensions.swift */,
 			);
 			name = CircularWordsCloud;
 			path = ../..;
@@ -548,11 +545,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A2DA0B923D14F5B00F39786 /* Extensions.swift in Sources */,
 				E2AB4D3719B7193387D9D024D4D94CB9 /* CircularWordsCloud-dummy.m in Sources */,
-				1A2DA0B523D14BAF00F39786 /* Keyword.swift in Sources */,
 				7FFA2F13B3B26DCDBF82FF02ADAB8904 /* ReplaceMe.swift in Sources */,
 				1A2DA0B123D14B6400F39786 /* CircularWordsCloud.swift in Sources */,
-				1A2DA0B323D14B9200F39786 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
