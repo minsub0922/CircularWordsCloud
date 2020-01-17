@@ -214,9 +214,6 @@
 		2770907730630331227DCCB68AC0115E /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1AD3DAF123D01D5A0042A488 /* Keyword.swift */,
-				1AD3DAEF23D0186E0042A488 /* Extensions.swift */,
-				1AD3DAED23D010F20042A488 /* CircularWordsCloud.swift */,
 				6B5C7A84267230CE06B127160EC35434 /* CircularWordsCloud */,
 			);
 			name = "Development Pods";
@@ -258,6 +255,9 @@
 		6B5C7A84267230CE06B127160EC35434 /* CircularWordsCloud */ = {
 			isa = PBXGroup;
 			children = (
+				1AD3DAF123D01D5A0042A488 /* Keyword.swift */,
+				1AD3DAEF23D0186E0042A488 /* Extensions.swift */,
+				1AD3DAED23D010F20042A488 /* CircularWordsCloud.swift */,
 				6D9B509DD09DAA7449F5BC308FF22922 /* ReplaceMe.swift */,
 				34864A183BE1FDCFFCF13E751F8A83A9 /* Pod */,
 				0D699FD3EDCB765B83C75740A0174345 /* Support Files */,

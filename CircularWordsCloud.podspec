@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CircularWordsCloud'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Circular Words Cloud with N-Words Selector (+ M-Depth Searching)'
 
 # This description is used to generate tags and improve search results.
